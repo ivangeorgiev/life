@@ -7,4 +7,5 @@ Cooking Recipes
    :caption: Contents:
 
    postni/index.rst
+   meat/index.rst
    bread/index.rst
