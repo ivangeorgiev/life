@@ -1,4 +1,4 @@
-Journals: Garden
+Garden
 =======================
 
 
